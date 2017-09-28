@@ -4,6 +4,23 @@ Team membership:  Daniel (Captain), Terence (Mate) & Jonathan(Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 1.3*
+
+Release Date: Sept 28, 2017
+
+## New Components
+
+
+-   controllers
+
+    -   Tango.php
+    
+## Updated Components
+
+-   config
+    
+    -   routes.php
+
 ## *Version 1.2*
 
 Release Date: Sept 28, 2017
