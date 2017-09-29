@@ -10,17 +10,39 @@ Release Date: Sept 28, 2017
 
 ## New Components
 
+-   config
+
+    -   config.php
 
 -   controllers
 
     -   Juliet.php
-    
+  
+## *Version 1.9*
+
+Release Date: Sept 28, 2017
+
+## New Components
+
+-   data
+
+    -   test.jpg
+
+-   controllers
+
+    -   India.php
+
+## *Version 1.8*
+
+Release Date: Sept 28, 2017
+
 ## Updated Components
 
 -   config
     
     -   config.php
-
+    -   routes.php
+    
 ## *Version 1.7*
 
 Release Date: Sept 28, 2017
