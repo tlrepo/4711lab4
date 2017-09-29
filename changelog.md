@@ -4,6 +4,23 @@ Team membership:  Daniel (Captain), Terence (Mate) & Jonathan(Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## *Version 1.6*
+
+Release Date: Sept 28, 2017
+
+## New Components
+
+
+-   controllers
+
+    -   Charlie.php
+    
+## Updated Components
+
+-   config
+    
+    -   config.php
+
 ## *Version 1.5*
 
 Release Date: Sept 28, 2017
