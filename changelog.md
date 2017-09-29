@@ -8,11 +8,22 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: Sept 28, 2017
 
+## New Components
+
+-   data
+
+    -   test.jpg
+
+-   controllers
+
+    -   India.php
+
 ## Updated Components
 
 -   config
     
     -   config.php
+
     -   routes.php
 
 ## *Version 1.7*
