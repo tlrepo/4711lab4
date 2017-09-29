@@ -6,7 +6,7 @@
  * Time: 11:36 AM
  */
 
-class Able extends CI_Controller {
+class Able extends Application {
     public function index() {
         $this->show(1);
     }
