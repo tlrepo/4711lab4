@@ -18,12 +18,13 @@ Release Date: Sept 28, 2017
 
     -   India.php
 
-    
 ## Updated Components
 
 -   config
     
     -   config.php
+
+    -   routes.php
 
 ## *Version 1.7*
 
